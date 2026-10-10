@@ -9,6 +9,6 @@ for(a=1;a<=100;a++)	{
 	}
 	b++;
 }
-printf("%d",sum);
+printf("%d\n",sum);
 return 0;
 }
